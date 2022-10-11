@@ -1,0 +1,18 @@
+{
+  "name": "aps-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html-pdf": "^3.0.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20",
+    "telegraf": "^4.10.0"
+  }
+}
